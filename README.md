@@ -1,6 +1,7 @@
 # External-Radix-Sort-System
 This repository contains high-level summaries of my key computer science projects. The full source code is private due to course restrictions, but access can be provided upon request via a GitHub invite.
 https://github.com/ahmadbitaarr/radix-sort-system-private
+Email: ahmadbitar2005@gmail.com
 # 🗂️ Ahmad Bitar – Project Portfolio (CS Projects, Fall 2025)
 
 [![Java](https://img.shields.io/badge/Language-Java-red)](https://www.java.com/) [![Role](https://img.shields.io/badge/Role-Systems%2FBackend-blue)](https://www.linkedin.com/in/ahmad-f-bitar/)
@@ -22,16 +23,10 @@ Each project summary highlights technical skills, design decisions, and **resume
         - [Memory and I/O Management](#memory-and-io-management)  
         - [File Generation & Verification](#file-generation--verification)  
         - [Performance Instrumentation](#performance-instrumentation)  
-    - [Technical Details](#technical-details)  
-    - [Usage](#usage)  
-    - [Design Considerations](#design-considerations)  
-    - [Programming Standards](#programming-standards)  
-    - [Resume / Portfolio Value](#resume--portfolio-value)  
-    - [Access to Code](#access-to-code)  
 
 ---
 
-## 1. External Radix Sort System (CS3114/5040, Fall 2025)
+## 1. External Radix Sort System (Fall 2025)
 
 ### Overview
 This project implements a **stable, disk-based radix sort** for binary files containing 8-byte records (32-bit key + 32-bit data).  
