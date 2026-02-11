@@ -1,7 +1,9 @@
 # External-Radix-Sort-System
 This repository contains high-level summaries of my key computer science projects. The full source code is private due to course restrictions, but access can be provided upon request via a GitHub invite.
-https://github.com/ahmadbitaarr/radix-sort-system-private
+
+Source Code: https://github.com/ahmadbitaarr/radix-sort-system-private
 Email: ahmadbitar2005@gmail.com
+Linkedln: www.linkedin.com/in/ahmad-f-bitar
 # 🗂️ Ahmad Bitar – Project Portfolio (CS Projects, Fall 2025)
 
 [![Java](https://img.shields.io/badge/Language-Java-red)](https://www.java.com/) [![Role](https://img.shields.io/badge/Role-Systems%2FBackend-blue)](https://www.linkedin.com/in/ahmad-f-bitar/)
